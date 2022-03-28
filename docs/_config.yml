@@ -1,0 +1,25 @@
+title: Yunlong Xing
+url: https://yunlongxing.github.io/HomePage/
+
+owner:
+  name:           Yunlong Xing
+  avatar:         flower.jpeg
+  email:          yxing4@gmu.edu
+  github:         YunlongXing
+  scholar:        
+
+timezone: America/New_York
+future: true
+highlighter: rouge
+
+permalink:   /:categories/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
