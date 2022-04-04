@@ -5,9 +5,9 @@ owner:
   name:           Yunlong Xing
   avatar:         flower.jpeg
   email:          yxing4@gmu.edu
+  scholar:        https://scholar.google.com/citations?hl=zh-CN&user=H9E5GxsAAAAJ&view_op=list_works&gmla=AJsN-F5QZl1Qg78Pwk13uX464EXQ822k4qlGIeX71I1zvKwlDco8FNEgXRfGIlhPbtvymYI-wlxhYI4SW26QjuNFHCgDb8s76-pAaNHjj5aPlSimdBil8sY
   github:         YunlongXing
-  scholar:        
-
+  
 timezone: America/New_York
 future: true
 highlighter: rouge
