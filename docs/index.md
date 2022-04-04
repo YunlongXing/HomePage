@@ -4,7 +4,7 @@ layout: page
 
 ## About Me
 <img src="/HomePage/images/winter.jpeg" class="floatpic" width="200" height="300">
-My name is Yunlong Xing. Currently, I am a first-year Ph.D. student in the [Center for Secure Information Systems (CSIS)] at [George Mason University], under the supervision of [Dr. Kun Sun]. My research interests lie primarily in the fields of and Container Security, Software Security, and System Security.
+My name is Yunlong Xing. Currently, I am a first-year Ph.D. student in the [Center for Secure Information Systems (CSIS)] at [George Mason University], under the supervision of [Dr. Kun Sun]. My research interests lie primarily in the fields of Container Security, Software Security, and System Security.
 
 Before that, I received a Master's Degree in Engineering in July 2021 at [Wuhan University], majoring in Cyberspace Security, under the supervision of [Dr. Fei Yan]. And I obtained a Bachelor's Degree in Engineering in July 2018 from [Wuhan University], focusing on Information Security. From November 2018 to August 2020, as a Visiting Student, I joined [Dr. Kun Sun]'s Research Group at [George Mason University] and worked on Container Security.
 
