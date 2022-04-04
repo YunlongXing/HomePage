@@ -23,6 +23,6 @@ Before that, I received a Master's Degree in Engineering in July 2021 at [Wuhan 
 ## Awards and Honors
 * **First Prize**, in 10th National College Student Information Security Contest, July 2017.
 
-* **Third Prize**, in National University Mobile Internet Application Innovation Contest, December 2016.
+* **Second-class scholarship** and the honorary title of “Excellent Student”, 2016-2017.
 
-* **B-class scholarship** and the honorary title of “Excellent Student”, 2016-2017.
+* **Third Prize**, in National University Mobile Internet Application Innovation Contest, December 2016.
