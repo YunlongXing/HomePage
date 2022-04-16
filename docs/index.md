@@ -17,7 +17,7 @@ Before that, I received a Master's Degree in Engineering in July 2021 at [Wuhan 
 
 ## Research Publications
 
-* **[FGCS 2022]** **Yunlong Xing**, Jiahao Cao, Kun Sun, Fei Yan, Shengye Wan. "The Devil is in the Detail: Generating System Call Whitelist for Linux Seccomp." Future Generation computer systems, Elsevier, 2022.
+* **[FGCS 2022]** **Yunlong Xing**, Jiahao Cao, Kun Sun, Fei Yan, Shengye Wan. "The Devil is in the Detail: Generating System Call Whitelist for Linux Seccomp." Future Generation Computer Systems, Elsevier, 2022.
 
 * **[Journal of Wuhan Univeristy (National Science Edition) 2021]** **Yunlong Xing**, Fei Yan, Yanxiao Liu, Liqiang Zhang. "Container Security Protection Based on System Call Restriction." Journal of Wuhan Univeristy (National Science Edition), Wuhan, Hubei Province, China, 2021 (in Chinese).
 
