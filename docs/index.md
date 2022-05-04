@@ -18,7 +18,7 @@ Before that, I received a Master's Degree in Engineering in July 2021 at [Wuhan 
 ## Research Publications
 
 * **[FGCS 2022]** **<u>Yunlong Xing</u>**, Jiahao Cao, Kun Sun, Fei Yan, Shengye Wan. "The Devil is in the Detail: Generating System Call Whitelist for Linux Seccomp." *Future Generation Computer Systems*, 2022.  
-(**doi:** [https://doi.org/10.1016/j.future.2022.04.016])
+(**DOI:** [https://doi.org/10.1016/j.future.2022.04.016])
 
 [https://doi.org/10.1016/j.future.2022.04.016]: https://doi.org/10.1016/j.future.2022.04.016
 
