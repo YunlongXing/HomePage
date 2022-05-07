@@ -27,7 +27,10 @@ Before that, I received a Master's Degree in Engineering in July 2021 at [Wuhan 
 
 [https://doi.org/10.14188/j.1671-8836.2021.0049]: https://doi.org/10.14188/j.1671-8836.2021.0049
 
-* **[CTCIS 2017]** Fei Yan, **<u>Yunlong Xing</u>**, Shiwei Zhang, Zhihan Yue, Yamin Zheng. "Research on Cryptographic Algorithm Recognition Based on Behavior Analysis". *Chinese Conference on Trusted Computing and Information Security (CTCIS)*, Springer, Singapore, 2017.
+* **[CTCIS 2017]** Fei Yan, **<u>Yunlong Xing</u>**, Shiwei Zhang, Zhihan Yue, Yamin Zheng. "Research on Cryptographic Algorithm Recognition Based on Behavior Analysis". *Chinese Conference on Trusted Computing and Information Security (CTCIS)*, Springer, Singapore, 2017.  
+(**DOI:** [https://doi.org/10.1007/978-981-10-7080-8_25])
+
+[https://doi.org/10.1007/978-981-10-7080-8_25]: https://doi.org/10.1007/978-981-10-7080-8_25
 
 ## Awards and Honors
 * **First Prize**, in 10th National College Student Information Security Contest, July 2017.
