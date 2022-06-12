@@ -17,6 +17,8 @@ Before that, I received a Master's Degree in Engineering in July 2021 at [Wuhan 
 
 ## Research Publications
 
+* **[RAID 2022]** Xu He, Shu Wang, **<u>Yunlong Xing</u>**, Pengbin Feng, Haining Wang, Qi Li, Songqing Chen, and Kun Sun. "BinProv: Binary Code Provenance Identification without Disassembly". *International Symposium on Research in Attacks, Intrusions and Defenses (RAID)*, Limassol, Cyprus, 2022.
+
 * **[FGCS 2022]** **<u>Yunlong Xing</u>**, Jiahao Cao, Kun Sun, Fei Yan, Shengye Wan. "The Devil is in the Detail: Generating System Call Whitelist for Linux Seccomp". *Future Generation Computer Systems*, 2022.  
 (**DOI:** [https://doi.org/10.1016/j.future.2022.04.016])
 
