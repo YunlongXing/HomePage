@@ -17,19 +17,19 @@ Before that, I received a Master's Degree in Engineering in July 2021 at [Wuhan 
 
 ## Research Publications
 
-* **[RAID 2022]** Xu He, Shu Wang, **<u>Yunlong Xing</u>**, Pengbin Feng, Haining Wang, Qi Li, Songqing Chen, and Kun Sun. "BinProv: Binary Code Provenance Identification without Disassembly". *International Symposium on Research in Attacks, Intrusions and Defenses (RAID)*, Limassol, Cyprus, 2022.
+* **[RAID 2022]** Xu He, Shu Wang, **<u>Yunlong Xing</u>**, Pengbin Feng, Haining Wang, Qi Li, Songqing Chen, and Kun Sun. "BinProv: Binary Code Provenance Identification without Disassembly". *International Symposium on Research in Attacks, Intrusions and Defenses (RAID), Limassol, Cyprus, 2022*.
 
-* **[FGCS 2022]** **<u>Yunlong Xing</u>**, Jiahao Cao, Kun Sun, Fei Yan, Shengye Wan. "The Devil is in the Detail: Generating System Call Whitelist for Linux Seccomp". *Future Generation Computer Systems*, Elsevier, 2022.  
+* **[FGCS 2022]** **<u>Yunlong Xing</u>**, Jiahao Cao, Kun Sun, Fei Yan, Shengye Wan. "The Devil is in the Detail: Generating System Call Whitelist for Linux Seccomp". *Future Generation Computer Systems, Elsevier, 2022*.  
 (**DOI:** [https://doi.org/10.1016/j.future.2022.04.016])
 
 [https://doi.org/10.1016/j.future.2022.04.016]: https://doi.org/10.1016/j.future.2022.04.016
 
-* **[Journal of Wuhan Univeristy (Natural Science Edition) 2021]** **<u>Yunlong Xing</u>**, Fei Yan, Yanxiao Liu, Liqiang Zhang. "Container Security Protection Based on System Call Restriction". *Journal of Wuhan Univeristy (National Science Edition)*, Wuhan, China, 2021 (in Chinese).  
+* **[Journal of Wuhan Univeristy (Natural Science Edition) 2021]** **<u>Yunlong Xing</u>**, Fei Yan, Yanxiao Liu, Liqiang Zhang. "Container Security Protection Based on System Call Restriction". *Journal of Wuhan Univeristy (National Science Edition), Wuhan, China, 2021 (in Chinese)*.  
 (**DOI:** [https://doi.org/10.14188/j.1671-8836.2021.0049])
 
 [https://doi.org/10.14188/j.1671-8836.2021.0049]: https://doi.org/10.14188/j.1671-8836.2021.0049
 
-* **[CTCIS 2017]** Fei Yan, **<u>Yunlong Xing</u>**, Shiwei Zhang, Zhihan Yue, Yamin Zheng. "Research on Cryptographic Algorithm Recognition Based on Behavior Analysis". *Chinese Conference on Trusted Computing and Information Security (CTCIS)*, Springer, Singapore, 2017.  
+* **[CTCIS 2017]** Fei Yan, **<u>Yunlong Xing</u>**, Shiwei Zhang, Zhihan Yue, Yamin Zheng. "Research on Cryptographic Algorithm Recognition Based on Behavior Analysis". *Chinese Conference on Trusted Computing and Information Security (CTCIS), Springer, Singapore, 2017*.  
 (**DOI:** [https://doi.org/10.1007/978-981-10-7080-8_25])
 
 [https://doi.org/10.1007/978-981-10-7080-8_25]: https://doi.org/10.1007/978-981-10-7080-8_25
