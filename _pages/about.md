@@ -33,7 +33,7 @@ Xu He, Shu Wang, **<u>Yunlong Xing</u>**, Pengbin Feng, Haining Wang, Qi Li, Son
 
 * **[Container Security Protection Based on System Call Restriction]**  
 **<u>Yunlong Xing</u>**, Fei Yan, Yanxiao Liu, Liqiang Zhang.  
-*Journal of Wuhan Univeristy (National Science Edition), Wuhan, China, 2021 (in Chinese)*.  
+*Journal of Wuhan Univeristy (Natural Science Edition), Wuhan, China, 2021 (in Chinese)*.  
 
 [Container Security Protection Based on System Call Restriction]: https://doi.org/10.14188/j.1671-8836.2021.0049
 
