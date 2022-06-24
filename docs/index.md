@@ -17,7 +17,7 @@ Before that, I received a Master's Degree in Engineering in July 2021 at [Wuhan 
 
 ## Research Publications
 
-* **[RAID 2022]** "BinProv: Binary Code Provenance Identification without Disassembly".  
+* **[RAID 2022]** *BinProv: Binary Code Provenance Identification without Disassembly*  
 Xu He, Shu Wang, **<u>Yunlong Xing</u>**, Pengbin Feng, Haining Wang, Qi Li, Songqing Chen, and Kun Sun.  
 *International Symposium on Research in Attacks, Intrusions and Defenses (RAID), Limassol, Cyprus, 2022*.
 
