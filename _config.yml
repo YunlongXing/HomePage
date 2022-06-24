@@ -4,7 +4,7 @@ title                    : "Yunlong Xing's Homepage!"
 title_separator          : "-"
 name                     : &name "Yunlong Xing"
 description              : &description "Ph.D. Student in Center for Secure Information Systems, George Mason University"
-url                      : https://yunlongxing.github.io/testHomePage/
+url                      : https://yunlongxing.github.io/HomePage/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
